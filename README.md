@@ -19,3 +19,6 @@ Classification Model: (resnet50)
 
 https://drive.google.com/file/d/1pg8dKRlRXOsDvHg-DBZm5KUXJ9ST1qKl/view?usp=sharing
 
+
+#Dataset:
+https://drive.google.com/drive/folders/1fwFCknOOXZJAjboU2-RUav3TuGsF_DZd?usp=sharing
